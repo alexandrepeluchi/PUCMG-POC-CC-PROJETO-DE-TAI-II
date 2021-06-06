@@ -13,7 +13,7 @@ O problema da dificuldade de se obter livros no Brasil devido aos preços elevad
 | -------------             |:-------------:|
 | Usuário  | Pessoa disposta a fazer a troca de seus livros usados |
 | Anunciante | Pessoa física/jurídica que patrocina a aplicação para anunciar sua loja e serviços |
-| Biblioteca | Pessoa física/jurídica que disponibiliza o catálogo da sua biblioteca para empréstimo de livros |
+| Biblioteca | Pessoa física/jurídica que disponibilizam o seu ambiente para reuniões, encontros e eventos. |
 | Empresa/ONG | Pessoa jurídica que fará anuncio de feiras do livro para o público geral |
 | Doador | Pessoa física/jurídica que fará doações de livros |
 
